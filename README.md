@@ -1,4 +1,4 @@
-# Dash Airline Data Visualization
+# Dash Airline Data Visualization IDE python Lab
 
 This project demonstrates a basic Dash web application created as part of the **IBM Data Science – Data Visualization with Python** course on Coursera.
 
